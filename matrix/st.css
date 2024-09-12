@@ -5,7 +5,8 @@
 div{
     background-color: bisque;
     width: 200px;
-    height: 150px;
+    height: 200px;
+    margin-top: 10px;
 }
 p{
    text-decoration: double;
