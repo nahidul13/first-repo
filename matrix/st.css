@@ -1,0 +1,12 @@
+.bay{
+    background-color:aquamarine;
+    width: 200px;
+}
+div{
+    background-color: bisque;
+    width: 200px;
+    height: 150px;
+}
+p{
+   text-decoration: double;
+}
